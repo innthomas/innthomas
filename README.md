@@ -1,10 +1,5 @@
-  ![](file:///home/innocent/Pictures/iconx.png )  
+  ![image](file:///home/innocent/Pictures/iconx.png)
   ### Hi there 👋
-
-
-
-
-
 
 - 🔭 I’m currently working on **React**,**Django** and **MERN**
 - 🌱 I’m currently learning **Artificial Intelligence**
