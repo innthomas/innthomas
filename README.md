@@ -1,4 +1,7 @@
-  ![image](file:///home/innocent/Pictures/iconx.png)
+ 
+  
+  ![GitHub Logo](file:///home/innocent/Pictures/iconx.png)
+Format: ![Alt Text](url)
   ### Hi there 👋
 
 - 🔭 I’m currently working on **React**,**Django** and **MERN**
