@@ -1,7 +1,7 @@
  
   
-  ![GitHub Logo](file:///home/innocent/Pictures/iconx.png)
-Format: ![Alt Text](url)
+  ![](https://res.cloudinary.com/innthomas/image/upload/v1612322213/landscape_cv_m4gktf.jpg)
+
   ### Hi there 👋
 
 - 🔭 I’m currently working on **React**,**Django** and **MERN**
