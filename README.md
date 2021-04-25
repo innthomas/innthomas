@@ -4,9 +4,9 @@
 
   ### Hi there 👋
 
-- 🔭 I’m currently working on **React**,**Django** and **MERN**
+- 🔭 I’m currently working on **Flutter**.
 - 🌱 I’m quite interested in **Artificial Intelligence** too
-- 👯 I’m looking to collaborate on any **web project**
+- 👯 I’m looking to collaborate on any **Full Stack Project**
 <!--- 🤔 I’m looking for help with ...-->
 <!--- 💬 Ask me about ...-->
 - 📫 How to reach me: **innthomas00158@gmail.com**
