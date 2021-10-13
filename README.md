@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on any **Full Stack Project**
 <!--- 🤔 I’m looking for help with ...-->
 <!--- 💬 Ask me about ...-->
-- 📫 How to reach me: **innthomas00158@gmail.com**
+- 📫 How to reach me: **innthomas@tutanota.com**
 <!--- 😄 Pronouns: ...-->
 <!--- ⚡ Fun fact: ...-->
 
