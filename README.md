@@ -4,9 +4,10 @@
 
   ### Hi there 👋
 
-- 🔭 I’m currently working on **Flutter**.
-- 🌱 I’m quite interested in **Artificial Intelligence** too
-- 👯 I’m looking to collaborate on any **Full Stack Project**
+- 🔭 I am currently working on **blockchain, web3.0, ethereum**.
+- A frontend developer
+- 🌱 Qite interested in **Artificial Intelligence** too
+- 👯 Looking to collaborate on any **Full Stack Project**
 <!--- 🤔 I’m looking for help with ...-->
 <!--- 💬 Ask me about ...-->
 - 📫 How to reach me: **innthomas@tutanota.com**
