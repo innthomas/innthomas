@@ -5,12 +5,11 @@
   ### Hi there 👋
 
 - 🔭 I am currently working on *LLM*, ML, AI**.
-- A fullstack developer
-- 🌱 Qite interested in **Artificial Intelligence** too
+- Also a fullstack Nextjs developer 
+- 🌱 Qite passionate in **Artificial Intelligence** projects
 - 👯 Looking to collaborate on any **Full Stack Project**
 <!--- 🤔 I’m looking for help with ...-->
 <!--- 💬 Ask me about ...-->
 - 📫 How to reach me: **innthomas@tutanota.com**
 <!--- 😄 Pronouns: ...-->
 <!--- ⚡ Fun fact: ...-->
-
